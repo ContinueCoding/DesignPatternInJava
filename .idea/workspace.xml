@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3cbafa3-a2b8-4ca6-b268-05b962ad292e" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/huoxy/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="554">
+              <caret line="1010" column="8" selection-start-line="1010" selection-start-column="8" selection-end-line="1010" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#factoryPattern#0;class#Main#0" />
+                <element signature="method#abstractFactoryPattern#0;class#Main#0" />
+                <element signature="method#singletonPattern#0;class#Main#0" />
+                <element signature="method#builderPattern#0;class#Main#0" />
+                <element signature="method#prototypePattern#0;class#Main#0" />
+                <element signature="method#adapterPattern#0;class#Main#0" />
+                <element signature="method#bridgePattern#0;class#Main#0" />
+                <element signature="method#filterOrCriteriaPattern#0;class#Main#0" />
+                <element signature="method#printPersons#0;class#Main#0" />
+                <element signature="method#compositePattern#0;class#Main#0" />
+                <element signature="method#decoratorPattern#0;class#Main#0" />
+                <element signature="method#facadePattern#0;class#Main#0" />
+                <element signature="method#flyweightPattern#0;class#Main#0" />
+                <element signature="method#proxyPattern#0;class#Main#0" />
+                <element signature="method#chainOfResponsibility#0;class#Main#0" />
+                <element signature="method#chainOfResponsibility2#0;class#Main#0" />
+                <element signature="method#commandPattern#0;class#Main#0" />
+                <element signature="method#interpreterPattern#0;class#Main#0" />
+                <element signature="method#iteratorPattern#0;class#Main#0" />
+                <element signature="method#mediatorPattern#0;class#Main#0" />
+                <element signature="method#mementoPattern#0;class#Main#0" />
+                <element signature="method#observerPattern#0;class#Main#0" />
+                <element signature="method#statePattern#0;class#Main#0" />
+                <element signature="method#nullObjectPattern#0;class#Main#0" />
+                <element signature="method#strategyPattern#0;class#Main#0" />
+                <element signature="method#templatePattern#0;class#Main#0" />
+                <element signature="method#visitorPattern#0;class#Main#0" />
+                <element signature="method#mvcPattern#0;class#Main#0" />
+                <element signature="method#getStudentFromDatabase#0;class#Main#0" />
+                <element signature="method#businessDelegatePattern#0;class#Main#0" />
+                <element signature="method#compositeEntityPattern#0;class#Main#0" />
+                <element signature="method#dataAccessObjectPattern#0;class#Main#0" />
+                <element signature="method#frontControllerPattern#0;class#Main#0" />
+                <element signature="method#interceptingFilterPattern#0;class#Main#0" />
+                <element signature="method#serviceLocatorPattern#0;class#Main#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StudentVO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/huoxy/d8_transfer_object_pattern/StudentVO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+              <folding>
+                <element signature="e#266#267#0" expanded="true" />
+                <element signature="e#293#294#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#365#366#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#424#425#0" expanded="true" />
+                <element signature="e#465#466#0" expanded="true" />
+                <element signature="e#501#502#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StudentBO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/huoxy/d8_transfer_object_pattern/StudentBO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#453#454#0" expanded="true" />
+                <element signature="e#483#484#0" expanded="true" />
+                <element signature="e#522#523#0" expanded="true" />
+                <element signature="e#564#565#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>toString</find>
+      <find>changed</find>
+      <find>add</find>
+      <find>Service</find>
+      <find>factoryPattern</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/huoxy/visitor_pattern_25/Monitor.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/visitor_pattern_25/Keyboard.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/visitor_pattern_25/ComputerDisplayVisitor.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/visitor_pattern_25/example2/Visitor.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/visitor_pattern_25/example2/MedicineA.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/visitor_pattern_25/example2/MedicineB.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/visitor_pattern_25/example2/Charger.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/visitor_pattern_25/example2/WorkerOfPharmacy.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/visitor_pattern_25/example2/Presciption.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/visitor_pattern_25/example2/Prescription.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/visitor_pattern_25/example2/Medicine.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/visitor_pattern_25/Computer.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/visitor_pattern_25/ComputerVisitor.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/mvc_pattern_26/Student.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/mvc_pattern_26/StudentView.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/mvc_pattern_26/StudentController.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/d2_business_delegate_pattern_27/BusinessService.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/d2_business_delegate_pattern_27/EJBService.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/d2_business_delegate_pattern_27/JMSService.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/d2_business_delegate_pattern_27/BusinessLookUp.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/d2_business_delegate_pattern_27/Clent.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/d2_business_delegate_pattern_27/Client.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/d2_business_delegate_pattern_27/BusinessDelegate.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/d3_composite_entity_pattern_28/DependentObject1.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/d3_composite_entity_pattern_28/DependentObject2.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/d3_composite_entity_pattern_28/CompositeEntity.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/d3_composite_entity_pattern_28/CoarseGrainedObject.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/d3_composite_entity_pattern_28/Client.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/d4_data_access_object_pattern/Student.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/d4_data_access_object_pattern/StudentDao.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/d4_data_access_object_pattern/StudentDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/d5_front_controller_pattern/HomeView.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/d5_front_controller_pattern/StudentView.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/d5_front_controller_pattern/Dispatcher.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/d5_front_controller_pattern/FrontController.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/d6_intercepting_filter_pattern/Filter.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/d6_intercepting_filter_pattern/AuthenticatorFilter.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/d6_intercepting_filter_pattern/DebugFilter.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/d6_intercepting_filter_pattern/Target.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/d6_intercepting_filter_pattern/Client.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/d6_intercepting_filter_pattern/FilterChain.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/d6_intercepting_filter_pattern/FilterManager.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/d7_service_locator_pattern/Service.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/d7_service_locator_pattern/Service1.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/d7_service_locator_pattern/Service2.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/d7_service_locator_pattern/InitialContext.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/d7_service_locator_pattern/ServiceCache.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/d7_service_locator_pattern/ServiceLocator.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/d8_transfer_object_pattern/StudentVO.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/d8_transfer_object_pattern/StudentBO.java" />
+        <option value="$PROJECT_DIR$/src/com/huoxy/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DesignPatternInJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatternInJava" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatternInJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatternInJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatternInJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatternInJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="huoxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatternInJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatternInJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="huoxy" type="462c0819:PsiDirectoryNode" />
+              <item name="d7_service_locator_pattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatternInJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatternInJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="huoxy" type="462c0819:PsiDirectoryNode" />
+              <item name="d8_transfer_object_pattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="ChatR&#9;FILE&#9;file:///Users/huoxy/IdeaProjects/DesignPatternInJava/src/com/huoxy/mediator_pattern_17/ChatRoom.java&#10;Me&#9;FILE&#9;file:///Users/huoxy/IdeaProjects/DesignPatternInJava/src/com/huoxy/mediator_pattern_17/example2/Mediator.java&#10;Main&#9;FILE&#9;file:///Users/huoxy/IdeaProjects/DesignPatternInJava/src/com/huoxy/Main.java&#10;RedC&#9;FILE&#9;file:///Users/huoxy/IdeaProjects/DesignPatternInJava/src/com/huoxy/bridge_pattern_07/RedCircle.java&#10;AudioP&#9;FILE&#9;file:///Users/huoxy/IdeaProjects/DesignPatternInJava/src/com/huoxy/adapter_pattern_06/AudioPlayer.java&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;Col&#9;FILE&#9;file:///Users/huoxy/IdeaProjects/DesignPatternInJava/src/com/huoxy/abstract_factory_pattern_02/Color.java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.huoxy.d7_service_locator_pattern" />
+      <recent name="com.huoxy.d3_composite_entity_pattern_28" />
+      <recent name="com.huoxy.observer_pattern_19" />
+      <recent name="com.huoxy.interpreter_pattern_16.example2" />
+      <recent name="com.huoxy.interpreter_pattern_16" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.huoxy.Main" />
+      <module name="DesignPatternInJava" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3cbafa3-a2b8-4ca6-b268-05b962ad292e" name="Default" comment="" />
+      <created>1528873101759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528873101759</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32948717" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32948717" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.45" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32564104" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17739628" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32948717" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2974359" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17310444" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32948717" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32564104" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32948717" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/huoxy/c3_interpreter_pattern_16/AndExpression.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/c12_visitor_pattern_25/Monitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/c12_visitor_pattern_25/Keyboard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/c12_visitor_pattern_25/example2/MedicineB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/c12_visitor_pattern_25/example2/WorkerOfPharmacy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/c12_visitor_pattern_25/example2/Prescription.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/c12_visitor_pattern_25/example2/Medicine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/c12_visitor_pattern_25/example2/MedicineA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/c12_visitor_pattern_25/example2/Visitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/c12_visitor_pattern_25/example2/Charger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/c12_visitor_pattern_25/ComputerDisplayVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/c12_visitor_pattern_25/ComputerVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/c12_visitor_pattern_25/ComputerPart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/c12_visitor_pattern_25/Computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="54" column="79" lean-forward="true" selection-start-line="54" selection-start-column="79" selection-end-line="54" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/d1_mvc_pattern/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/d1_mvc_pattern/StudentView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/d1_mvc_pattern/StudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+            <element signature="e#683#684#0" expanded="true" />
+            <element signature="e#733#734#0" expanded="true" />
+            <element signature="e#772#773#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
+            <element signature="e#851#852#0" expanded="true" />
+            <element signature="e#906#907#0" expanded="true" />
+            <element signature="e#981#982#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/d2_business_delegate_pattern/BusinessService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/d2_business_delegate_pattern/EJBService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/d2_business_delegate_pattern/JMSService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="70" lean-forward="true" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+          <folding>
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/d2_business_delegate_pattern/BusinessLookUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/d2_business_delegate_pattern/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding>
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/d2_business_delegate_pattern/BusinessDelegate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+          <folding>
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/d3_composite_entity_pattern/DependentObject1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/d3_composite_entity_pattern/DependentObject2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/d3_composite_entity_pattern/CompositeEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/d3_composite_entity_pattern/CoarseGrainedObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/d3_composite_entity_pattern/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding>
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/d4_data_access_object_pattern/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+          <folding>
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="237" column="15" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/d4_data_access_object_pattern/StudentDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="43" lean-forward="true" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/d4_data_access_object_pattern/StudentDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#806#807#0" expanded="true" />
+            <element signature="e#834#835#0" expanded="true" />
+            <element signature="e#893#894#0" expanded="true" />
+            <element signature="e#921#922#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/d5_front_controller_pattern/HomeView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/d5_front_controller_pattern/StudentView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/d5_front_controller_pattern/Dispatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/d5_front_controller_pattern/FrontController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/d6_intercepting_filter_pattern/Filter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/d6_intercepting_filter_pattern/AuthenticatorFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="65" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
+          <folding>
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/d6_intercepting_filter_pattern/DebugFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/d6_intercepting_filter_pattern/Target.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/d6_intercepting_filter_pattern/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/d6_intercepting_filter_pattern/FilterManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/d6_intercepting_filter_pattern/FilterChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/d7_service_locator_pattern/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/d7_service_locator_pattern/Service1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/d7_service_locator_pattern/Service2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/d7_service_locator_pattern/InitialContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="76" selection-start-line="12" selection-start-column="76" selection-end-line="12" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/d7_service_locator_pattern/ServiceCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="41" column="80" selection-start-line="41" selection-start-column="80" selection-end-line="41" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/d7_service_locator_pattern/ServiceLocator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/d8_transfer_object_pattern/StudentVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+          <folding>
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/d8_transfer_object_pattern/StudentBO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huoxy/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="1010" column="8" selection-start-line="1010" selection-start-column="8" selection-end-line="1010" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#factoryPattern#0;class#Main#0" />
+            <element signature="method#abstractFactoryPattern#0;class#Main#0" />
+            <element signature="method#singletonPattern#0;class#Main#0" />
+            <element signature="method#builderPattern#0;class#Main#0" />
+            <element signature="method#prototypePattern#0;class#Main#0" />
+            <element signature="method#adapterPattern#0;class#Main#0" />
+            <element signature="method#bridgePattern#0;class#Main#0" />
+            <element signature="method#filterOrCriteriaPattern#0;class#Main#0" />
+            <element signature="method#printPersons#0;class#Main#0" />
+            <element signature="method#compositePattern#0;class#Main#0" />
+            <element signature="method#decoratorPattern#0;class#Main#0" />
+            <element signature="method#facadePattern#0;class#Main#0" />
+            <element signature="method#flyweightPattern#0;class#Main#0" />
+            <element signature="method#proxyPattern#0;class#Main#0" />
+            <element signature="method#chainOfResponsibility#0;class#Main#0" />
+            <element signature="method#chainOfResponsibility2#0;class#Main#0" />
+            <element signature="method#commandPattern#0;class#Main#0" />
+            <element signature="method#interpreterPattern#0;class#Main#0" />
+            <element signature="method#iteratorPattern#0;class#Main#0" />
+            <element signature="method#mediatorPattern#0;class#Main#0" />
+            <element signature="method#mementoPattern#0;class#Main#0" />
+            <element signature="method#observerPattern#0;class#Main#0" />
+            <element signature="method#statePattern#0;class#Main#0" />
+            <element signature="method#nullObjectPattern#0;class#Main#0" />
+            <element signature="method#strategyPattern#0;class#Main#0" />
+            <element signature="method#templatePattern#0;class#Main#0" />
+            <element signature="method#visitorPattern#0;class#Main#0" />
+            <element signature="method#mvcPattern#0;class#Main#0" />
+            <element signature="method#getStudentFromDatabase#0;class#Main#0" />
+            <element signature="method#businessDelegatePattern#0;class#Main#0" />
+            <element signature="method#compositeEntityPattern#0;class#Main#0" />
+            <element signature="method#dataAccessObjectPattern#0;class#Main#0" />
+            <element signature="method#frontControllerPattern#0;class#Main#0" />
+            <element signature="method#interceptingFilterPattern#0;class#Main#0" />
+            <element signature="method#serviceLocatorPattern#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
